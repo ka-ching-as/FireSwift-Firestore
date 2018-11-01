@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "31620D5B2109ED7F00085F66"
-               BuildableName = "FireSwift_Database.framework"
-               BlueprintName = "FireSwift-Database"
-               ReferencedContainer = "container:FireSwift-Database.xcodeproj">
+               BuildableName = "FireSwift_Firestore.framework"
+               BlueprintName = "FireSwift-Firestore"
+               ReferencedContainer = "container:FireSwift-Firestore.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "31620D642109ED7F00085F66"
-               BuildableName = "FireSwift-DatabaseTests.xctest"
-               BlueprintName = "FireSwift-DatabaseTests"
-               ReferencedContainer = "container:FireSwift-Database.xcodeproj">
+               BuildableName = "FireSwift-FirestoreTests.xctest"
+               BlueprintName = "FireSwift-FirestoreTests"
+               ReferencedContainer = "container:FireSwift-Firestore.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "31620D5B2109ED7F00085F66"
-            BuildableName = "FireSwift_Database.framework"
-            BlueprintName = "FireSwift-Database"
-            ReferencedContainer = "container:FireSwift-Database.xcodeproj">
+            BuildableName = "FireSwift_Firestore.framework"
+            BlueprintName = "FireSwift-Firestore"
+            ReferencedContainer = "container:FireSwift-Firestore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "31620D5B2109ED7F00085F66"
-            BuildableName = "FireSwift_Database.framework"
-            BlueprintName = "FireSwift-Database"
-            ReferencedContainer = "container:FireSwift-Database.xcodeproj">
+            BuildableName = "FireSwift_Firestore.framework"
+            BlueprintName = "FireSwift-Firestore"
+            ReferencedContainer = "container:FireSwift-Firestore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -83,9 +83,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "31620D5B2109ED7F00085F66"
-            BuildableName = "FireSwift_Database.framework"
-            BlueprintName = "FireSwift-Database"
-            ReferencedContainer = "container:FireSwift-Database.xcodeproj">
+            BuildableName = "FireSwift_Firestore.framework"
+            BlueprintName = "FireSwift-Firestore"
+            ReferencedContainer = "container:FireSwift-Firestore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

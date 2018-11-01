@@ -1,15 +1,15 @@
 //
-//  SwiftyFirebaseTests.swift
-//  SwiftyFirebaseTests
+//  FireSwift-FirestoreTests.swift
+//  FireSwift_FirestoreTests
 //
 //  Created by Morten Bek Ditlevsen on 26/07/2018.
 //  Copyright © 2018 Ka-ching. All rights reserved.
 //
 
 import XCTest
-@testable import FireSwift_Database
+@testable import FireSwift_Firestore
 
-class FireSwift_DatabaseTests: XCTestCase {
+class FireSwift_FirestoreTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
